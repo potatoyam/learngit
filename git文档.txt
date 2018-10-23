@@ -1,0 +1,7 @@
+下载工程	git clone 链接地址
+更新		git pull
+切换分支	git checkout devp2p
+查看修改	git status
+本地添加	git add .
+			git commit -m ""
+			git push
