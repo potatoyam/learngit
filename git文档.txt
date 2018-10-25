@@ -5,3 +5,4 @@
 本地添加	git add .
 			git commit -m ""
 			git push
+配置	git config --global user.name 'potatoyam'
